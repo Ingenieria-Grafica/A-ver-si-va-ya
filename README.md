@@ -1,0 +1,2 @@
+# A-ver-si-va-ya
+git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1git reset --hard HEAD~1
